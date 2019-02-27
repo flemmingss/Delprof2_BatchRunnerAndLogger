@@ -24,6 +24,7 @@
      false=run     
      (/l parameter in Delprof2)
        C) Only delete profiles that has not been used in X days.  
+       
      (/d parameter in Delprof2)
        D) Description, just notes
   
