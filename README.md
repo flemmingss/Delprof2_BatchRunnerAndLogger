@@ -15,7 +15,7 @@
 
 * Download Delprof2 from https://helgeklein.com/download/
 * Create a source-file ($computers_txt) for the script and format like this:
-
+```
   A;B;C;D  
   newline = new computer
   A) Name of the Computer
@@ -28,7 +28,7 @@
   D) Description, just notes
   
   Example: DESKTOP123;false;7;Meeting room computer, delete userprofiles not used in one week.
-
+```
 * Download the script and change the following variables:
 ```powershell
     $computers_txt = "D:\Delprof2_BatchRunnerAndLogger\computers.txt" #textfile with list of computers and parameters
