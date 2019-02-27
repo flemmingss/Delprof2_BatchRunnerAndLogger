@@ -23,9 +23,9 @@
   B) true=run simulated (WhatIf)  
      false=run     
      (/l parameter in Delprof2)
- C) Only delete profiles that has not been used in X days.  
+  C) Only delete profiles that has not been used in X days.  
      (/d parameter in Delprof2)     
- D) Description, just notes
+  D) Description, just notes
   
   Example: DESKTOP123;false;7;Meeting room computer, delete userprofiles not used in one week.
 
