@@ -2,7 +2,7 @@
   A PowerShell script to run Delprof2 on multiple remote computers and log the results
 
 **Description**  
-  This script will run the application Delprof2  towards multiple computers with with various given parameters and log the results.
+  This script will run the application [Delprof2](https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool/) on multiple computers with the given parameters and log the results.
   This can be usefull for machines that get filled up with userprofiles.
 
 
